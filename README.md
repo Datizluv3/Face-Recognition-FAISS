@@ -1,2 +1,2 @@
-# Face-Recognition-FAISS
-Face recognition is implemented using FAISS (L2 distance metric)
+# Face-Recognition-FAISS + ResNet
+Face recognition is implemented using FAISS (L2 distance metric) + ResNet
